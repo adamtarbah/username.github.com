@@ -1,3 +1,10 @@
+footer {
+    position: fixed;
+    bottom: 2px;
+    right: 5px;
+    font-size: 1px;
+}
+
 html, body {
     background-color: skyblue;
 }
@@ -12,11 +19,4 @@ p {
   font-size: 20px;
   text-align: center;
   margin-top: 0;
-}
-
-footer {
-    position: fixed;
-    bottom: 2px;
-    right: 5px;
-    font-size: 1px;
 }
