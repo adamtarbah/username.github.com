@@ -13,3 +13,8 @@ p {
   text-align: center;
   margin-top: 0;
 }
+
+footer {
+  font-size: 12px;
+  text-align: right;
+  margin-top: 50px;
